@@ -1,5 +1,10 @@
 generador-ed-test-usabilidad
 ============================
+Autores:
+Santiago Avilés Vazquez
+Francisco Javier Alvarez
+Juan David Contreras Ruiz
+
 Este proyecto genera cuestionarios para realizar pruebas de usabilidad
 mediante genración de proyectos dinamicamente.
 Se requiere 1.- la base de datos
